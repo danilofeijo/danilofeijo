@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-As you can see, it's under construction :)
-
 <!--
 Reference:
 https://github.com/iuricode/readme-template
